@@ -1,0 +1,5 @@
+baseURL = "https://resume.frodsan.com/"
+languageCode = "en-us"
+title = "Francesco Rodríguez - Resume"
+theme = "winning"
+googleAnalytics = "UA-123802654-2"
